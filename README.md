@@ -16,5 +16,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Purpose of making Mortgage App
 
-• client-side functionalities.
-• Chart.js for user experience
+I'm building this mortgage calculator app in React.js for a few reasons:
+1. Enhance Financial Literacy
+2. Practice and Improve Programming Skills
+3. Create a User-Friendly and Interactive Tool
+Overall, this project combines my desire to contribute to financial literacy, and my programming skills, and create a user-friendly and valuable tool for potential homebuyers.
